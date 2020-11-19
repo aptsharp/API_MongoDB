@@ -26,7 +26,13 @@ namespace Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddSingleton<Data.MongoDB>();
+            /* pode ser usado com 
+            *AddScoped - a cada request cria uma nova instancia, acabou o request mata a configuração
+            *AddTransient - a cada requesição é criado, se chamar 3 vezes cria 3x
+            *AddSingleton - cria uma estancia unica, toda vez que for chamado a memoria é aquela instancia. - Não recomendado. 
+            */
+            
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
