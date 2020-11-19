@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KNB3n8tiTqea+1bus/bXxocx+Ei94YpVlVwPfO+tLHXT4/3ZRznCcwNkQK0Wj1HsI8h6ecwiiWqORsfRIu4OQA==",
+  "dgSpecHash": "jRTQp+tHb86Ri3JVQ6GKa3mnXhp0Komft31YMKSFDkCo0BRg6cx2iwhJbfnf/ViHrMsqRE4U6+OZMSRew6UHhg==",
   "success": true,
-  "projectFilePath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\MongoDB.API.csproj",
+  "projectFilePath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\MongoDB.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aff-o\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\aff-o\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

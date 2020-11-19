@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\MongoDB.API.csproj": {}
+    "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\MongoDB.API.csproj": {}
   },
   "projects": {
-    "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\MongoDB.API.csproj": {
+    "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\MongoDB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\MongoDB.API.csproj",
+        "projectUniqueName": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\MongoDB.API.csproj",
         "projectName": "MongoDB.API",
-        "projectPath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\MongoDB.API.csproj",
+        "projectPath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\MongoDB.API.csproj",
         "packagesPath": "C:\\Users\\aff-o\\.nuget\\packages\\",
-        "outputPath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MDBAPI\\MongoDB.API\\obj\\",
+        "outputPath": "C:\\_C0de\\_DIO\\Construindo um projeto de uma API.NET integrada ao MongoDB\\_MongoDB\\Api\\VISUAL_STUDIO2019\\MongoDB.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
